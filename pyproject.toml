@@ -7,4 +7,5 @@ requires-python = ">=3.14"
 dependencies = [
     "anthropic>=0.112.0",
     "inspect-ai>=0.3.241",
+    "matplotlib>=3.11.0",
 ]

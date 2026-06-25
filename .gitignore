@@ -11,3 +11,9 @@ wheels/
 
 # Secrets
 .env
+
+# Inspect run artifacts
+logs/
+
+# Generated charts (commit a chosen result chart explicitly, e.g. git add -f)
+*.png
