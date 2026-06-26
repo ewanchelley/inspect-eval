@@ -27,5 +27,5 @@ def rugby_best():
         ],
         solver=generate(),
         config=GenerateConfig(temperature=1.0),
-        epochs=Epochs(30),
+        epochs=Epochs(100),
     )
