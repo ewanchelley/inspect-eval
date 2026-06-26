@@ -44,6 +44,15 @@ objective" produce nearly opposite winners (Carter vs Lomu), while the neutral f
 close to a coin-flip. A fairly neutral-seeming prime measurably steers an opinion the model
 presents as its own.
 
+Interestingly, the direction of the priming effect is backwards from what I would have expected to see. Dan Carter is
+arguably the "on paper" objective pick (points records, two World Cups, three World Player
+of the Year awards), while Jonah Lomu is remembered more for iconic moments
+than statistical dominance. 
+
+However, it was the **objective** prime that favoured Lomu and the
+**controversial** prime that favoured Carter. The priming nudged the answer the opposite way
+to what was expected.
+
 ## Caveats
 
 - Single model, single question, n = 100 per framing. The large controversial-vs-objective
